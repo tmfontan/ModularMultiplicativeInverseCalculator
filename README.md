@@ -11,4 +11,4 @@ When a Modular Multiplicative Inverse Value is Found, the GUI Form will display 
 
 *(**Note:** This Application was Designed and Tested Using the **Apache Netbeans 11.2** Integrated Development Environment)*
 
-![Alt Text](ModularMultiplicativeInverseCalculator/ModularInverseCalculator/Screenshots/Screenshot_Initial.png)
+![Alt Text](ModularInverseCalculator/Screenshots/Screenshot_Initial.png)
