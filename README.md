@@ -5,8 +5,10 @@ There are two approaches to finding the Modular Multiplicative Inverse Value. Th
 
 This Application allows the user to find the Modular Multiplicative Inverse Value using both approaches via user selection of the "Use Extended Euclidean Algorithm?" JCheckbox Swing Component within the GUI Form. 
 
-(Note: Should the User Attempt to Find the Solution of a Number Set Containing Variables Longer than Ten Digits in Length while using the "Naive" Approach, then the Program will still find the solution, but take an exponential amount of time to execute.)
+*(**Note:** Should the User Attempt to Find the Solution of a Number Set Containing Variables Longer than Ten Digits in Length while using the "Naive" Approach, then the Program will still find the solution, but take an exponential amount of time to execute.)*
 
 When a Modular Multiplicative Inverse Value is Found, the GUI Form will display it within the Bottom JTextArea Component, and display to the User the Approximate Amount of Steps that were need in order to find the Solution. Should the Amount of Steps Needed, be a Value longer than seven digits in length, then the GUI Form will instead display the number in its Scientific Notation Format. Examples of this process, and how the Application will function and display its solutions can be found in the Images Provided Below:
 
+*(**Note:** This Application was Designed and Tested Using the **Apache Netbeans 11.2** Integrated Development Environment)*
 
+![Alt Text](ModularMultiplicativeInverseCalculator/Screenshots/Screenshot_Initial.png)
